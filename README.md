@@ -23,8 +23,4 @@ After adjust your GCPs, this menu help you to get more accuracy because this men
 - Program will show pictures have error more than value that you input on Photo tab
 - Run FixGCP until program show accept
 
-Isara Chaowuttisuk
-Senior student
-Department of Survey Engineering
-School of Engineering
-Chulalongkoen University
+Isara Chaowuttisuk, Senior student, School of Engineering, Department survey, Chulalongkoen University
