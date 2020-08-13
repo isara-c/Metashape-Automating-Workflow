@@ -24,3 +24,8 @@ After adjust your GCPs, this menu help you to get more accuracy because this men
 - Run FixGCP until program show accept
 
 Isara Chaowuttisuk, Senior student, School of Engineering, Department survey, Chulalongkoen University
+
+Credit
+Assoc. Prof. Vichai Yiengveerachon
+Thirawat Bannakulpiphat
+Agisoft Community ( https://www.agisoft.com/forum/index.php?board=17.0 )
