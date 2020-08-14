@@ -26,6 +26,7 @@ Include 3 option in 1 scripts
 - After Align and reconstruction, script will ask you about GCPs and option to build
 - Script will add FixGCP and BuildAll to menu toolbar if you have GCP 
 
+
 ## FixGCP 
 
 After adjust your GCPs, this menu help you to get more accuracy because this menu will filter picture have error more than value that you input
@@ -33,15 +34,13 @@ After adjust your GCPs, this menu help you to get more accuracy because this men
 - Program will show pictures have error more than value that you input on Photo tab
 - Run FixGCP until program show accept
 
+## BuildAll 
 
-## Release History
-
-* 0.0.1
-    * Work in progress
+Program will build Orthophoto and DSM 
 
 ## Meta
 
-Isara Chaowuttisuk – chaowuttisuk@hot.com
+Isara Chaowuttisuk – chaowuttisuk@hotmail.com
 
 ## Credit
 
