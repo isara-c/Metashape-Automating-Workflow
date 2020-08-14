@@ -1,6 +1,6 @@
 # Metashape-Automating-Workflow
  
-** metashape version 1.6.0 +
+** Metashape pro version 1.6.0 +
 
 Script for automating workflow
 
